@@ -1,0 +1,29 @@
+{
+  "name": "namastereactagain",
+  "version": "1.0.0",
+  "description": "This is Namaste React Again(practice)",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shardasingh11/NamasteReactPractice.git"
+  },
+  "keywords": [],
+  "author": "Sharda Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shardasingh11/NamasteReactPractice/issues"
+  },
+  "homepage": "https://github.com/shardasingh11/NamasteReactPractice#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
